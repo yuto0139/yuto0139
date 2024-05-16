@@ -1,10 +1,11 @@
 ### Welcome to my GitHub
 
-## Like 🍣
+## Interested 🍣
 
 ### Language
 - Go
-- TypeScript
+- JavaScript / TypeScript
+- Python
 
 ### Framework
 - Echo
@@ -12,7 +13,7 @@
 
 ### Others
 - AWS
-- GitHub Actions
+- GitHub Copilot
 
 ## Stats :chart_with_upwards_trend:
 
