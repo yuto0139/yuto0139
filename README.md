@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome to my GitHub
 
-<!--
-**yuto0139/yuto0139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Like 🍣
 
-Here are some ideas to get you started:
+### Language
+- Go
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Framework
+- Echo
+- Next.js
+
+### Others
+- AWS
+- GitHub Actions
+
+## Stats :chart_with_upwards_trend:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuto0139&theme=gruvbox)
+
+## Trophy :trophy:
+![trophy](https://github-profile-trophy.vercel.app/?username=yuto0139&theme=gruvbox)
